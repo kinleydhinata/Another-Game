@@ -2,8 +2,11 @@
 
 ## Overview
 
-**Just Another Game by Kinley** is a first-person shooter (FPS) game built with Python and Pygame. It features shooting enemies, earning points, and navigating a grid-based map, along with a main menu and intuitive gameplay mechanics for an engaging experience. This game also features HSK background music to help players learn Mandarin while playing. Additionally, it uses raycasting to create a pseudo-3D visual effect, enhancing the immersive experience. The game aims to be web-playable using pygbag, but currently faces challenges, particularly with compatibility and stability. If you're experienced with pygbag and would like to help, please contribute or reach out!
+**Just Another Game by Kinley** is a first-person shooter (FPS) game built with Python and Pygame. It features shooting enemies, earning points, and navigating a grid-based map. This game also includes HSK background music to help players learn Mandarin while playing.
 
+It uses raycasting for a pseudo-3D visual effect, enhancing the immersive experience. The game aims to be web-playable using pygbag but currently faces challenges with compatibility and stability. If you have experience with pygbag, please consider contributing!
+
+![Screenshot](https://github.com/user-attachments/assets/1181de7b-a870-48c6-856f-8cd55f9d539b)
 
 
 ## Features 🚀
